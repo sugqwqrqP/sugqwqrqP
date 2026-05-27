@@ -52,4 +52,4 @@ Repository: [trails](https://github.com/sugqwqrqP/trails)
 ## Contact
 
 - GitHub: [@sugqwqrqP](https://github.com/sugqwqrqP)
-- Gmail: [gmail(sugqwqrqp@gmail.com)]
+- Gmail: [gmail](sugqwqrqp@gmail.com)
